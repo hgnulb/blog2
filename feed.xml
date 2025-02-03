@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://hgnulb.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hgnulb.github.io/blog/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-03T09:52:18+08:00</updated><id>https://hgnulb.github.io/blog/feed.xml</id><title type="html">走在修行的大街上</title><subtitle>小兵的 BLOG</subtitle><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><entry><title type="html">LeetCode 1452. 收藏清单</title><link href="https://hgnulb.github.io/blog/2024/40732414" rel="alternate" type="text/html" title="LeetCode 1452. 收藏清单" /><published>2024-10-28T01:20:10+08:00</published><updated>2024-10-28T01:20:10+08:00</updated><id>https://hgnulb.github.io/blog/2024/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/40732414"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/">1452. 收藏清单</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="LeetCode" /><category term="中等" /><category term="哈希表" /><category term="字符串" /><category term="数组" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1228. 等差数列中缺失的数字</title><link href="https://hgnulb.github.io/blog/2024/63336199" rel="alternate" type="text/html" title="LeetCode 1228. 等差数列中缺失的数字" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/missing-number-in-arithmetic-progression</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/63336199"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/missing-number-in-arithmetic-progression/">1228. 等差数列中缺失的数字</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C9" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="简单" /><category term="小米" /><category term="数学" /><category term="数组" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1229. 安排会议日程</title><link href="https://hgnulb.github.io/blog/2024/81606993" rel="alternate" type="text/html" title="LeetCode 1229. 安排会议日程" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/meeting-scheduler</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/81606993"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/meeting-scheduler/">1229. 安排会议日程</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="LeetCode" /><category term="中等" /><category term="双指针" /><category term="排序" /><category term="数组" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1230. 抛掷硬币</title><link href="https://hgnulb.github.io/blog/2024/35460786" rel="alternate" type="text/html" title="LeetCode 1230. 抛掷硬币" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/toss-strange-coins</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/35460786"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/toss-strange-coins/">1230. 抛掷硬币</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C9" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="中等" /><category term="动态规划" /><category term="字节跳动" /><category term="数学" /><category term="数组" /><category term="概率与统计" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1231. 分享巧克力</title><link href="https://hgnulb.github.io/blog/2024/96295312" rel="alternate" type="text/html" title="LeetCode 1231. 分享巧克力" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/divide-chocolate</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/96295312"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/divide-chocolate/">1231. 分享巧克力</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C8" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="困难" /><category term="二分查找" /><category term="数组" /><category term="百度" /><category term="美团" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1232. 缀点成线</title><link href="https://hgnulb.github.io/blog/2024/57238757" rel="alternate" type="text/html" title="LeetCode 1232. 缀点成线" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/check-if-it-is-a-straight-line</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/57238757"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/check-if-it-is-a-straight-line/">1232. 缀点成线</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C9" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="简单" /><category term="几何" /><category term="字节跳动" /><category term="数学" /><category term="数组" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1233. 删除子文件夹</title><link href="https://hgnulb.github.io/blog/2024/49459006" rel="alternate" type="text/html" title="LeetCode 1233. 删除子文件夹" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/remove-sub-folders-from-the-filesystem</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/49459006"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/">1233. 删除子文件夹</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C7" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="中等" /><category term="华为" /><category term="字典树" /><category term="字符串" /><category term="字节跳动" /><category term="微软" /><category term="数组" /><category term="深度优先搜索" /><category term="百度" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1234. 替换子串得到平衡字符串</title><link href="https://hgnulb.github.io/blog/2024/93027414" rel="alternate" type="text/html" title="LeetCode 1234. 替换子串得到平衡字符串" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/replace-the-substring-for-balanced-string</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/93027414"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/replace-the-substring-for-balanced-string/">1234. 替换子串得到平衡字符串</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C9" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="中等" /><category term="字符串" /><category term="滑动窗口" /><category term="阿里巴巴" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1235. 规划兼职工作</title><link href="https://hgnulb.github.io/blog/2024/11068786" rel="alternate" type="text/html" title="LeetCode 1235. 规划兼职工作" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/maximum-profit-in-job-scheduling</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/11068786"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/maximum-profit-in-job-scheduling/">1235. 规划兼职工作</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C8" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="困难" /><category term="二分查找" /><category term="动态规划" /><category term="华为" /><category term="排序" /><category term="数组" /><category term="阿里巴巴" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">LeetCode 1236. 网络爬虫</title><link href="https://hgnulb.github.io/blog/2024/66663683" rel="alternate" type="text/html" title="LeetCode 1236. 网络爬虫" /><published>2024-10-28T01:18:30+08:00</published><updated>2024-10-28T01:18:30+08:00</updated><id>https://hgnulb.github.io/blog/2024/web-crawler</id><content type="html" xml:base="https://hgnulb.github.io/blog/2024/66663683"><![CDATA[<ul id="markdown-toc">
+  <li><a href="#题目描述" id="markdown-toc-题目描述">题目描述</a></li>
+  <li><a href="#思路分析" id="markdown-toc-思路分析">思路分析</a></li>
+  <li><a href="#参考代码" id="markdown-toc-参考代码">参考代码</a></li>
+</ul>
+
+<h2 id="题目描述">题目描述</h2>
+
+<blockquote>
+  <p>🔥 <a href="https://leetcode.cn/problems/web-crawler/">1236. 网络爬虫</a></p>
+</blockquote>
+
+<h2 id="思路分析">思路分析</h2>
+
+<blockquote>
+  <p>思路描述</p>
+</blockquote>
+
+<h2 id="参考代码">参考代码</h2>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<div class="language-go highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+<p><a class="button show-hidden">🍏 点击查看 Java 题解</a></p>
+
+<div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="n">write</span> <span class="n">your</span> <span class="n">code</span> <span class="n">here</span>
+</pre></td></tr></tbody></table></code></pre></div></div>]]></content><author><name>HGNULB</name><email>lbjoyx@163.com</email></author><category term="C9" /><category term="CodeTop" /><category term="LeetCode" /><category term="❎ CodeTop" /><category term="中等" /><category term="交互" /><category term="字符串" /><category term="广度优先搜索" /><category term="微软" /><category term="深度优先搜索" /><summary type="html"><![CDATA[]]></summary></entry></feed>
